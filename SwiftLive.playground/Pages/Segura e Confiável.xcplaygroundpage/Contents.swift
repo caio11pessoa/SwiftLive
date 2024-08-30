@@ -4,7 +4,8 @@
  */
 import Foundation
 /*:
-Tipos de Erros personalizados
+Tipos de Erros personalizados.
+O swift nos permite mapear todos os tipos de erro que desejamos
 */
 enum RandomError: Error {
     case geracaoFalhou
